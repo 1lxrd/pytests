@@ -1,7 +1,6 @@
 import requests
 import json
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
 import pytest
 
 def getting(link): #http request func
